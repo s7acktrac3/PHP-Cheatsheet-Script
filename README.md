@@ -13,7 +13,11 @@ Thus far it checks for:
 
 - LFI/RFI
 
-I didn't come up with searches major shoutout to @dustyfresh he gets all the credit for compiling them I just automated the entire thing into this script
+Most of the searches were created by @dustyfresh he gets all the credit for compiling them! I just automated the entire thing into this script
+
+#### Usage: edit the path to point to the root of the project you want to inspect. (/var/www/html/cms/)
+#### chmod +x <script> 
+#### ./script
 
 ## Sample Output
 
