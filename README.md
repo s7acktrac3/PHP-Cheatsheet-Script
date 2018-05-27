@@ -15,4 +15,6 @@ Thus far it checks for:
 
 I didn't come up with searches major shoutout to @dustyfresh he gets all the credit for compiling them I just automated the entire thing into this script
 
-##Sample Output
+## Sample Output
+
+![alt text](https://github.com/s7acktrac3/PHP-Cheatsheet-Script/blob/master/Screen%20Shot%202018-05-27%20at%2010.02.37%20AM.png)
