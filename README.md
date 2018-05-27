@@ -14,3 +14,5 @@ Thus far it checks for:
 - LFI/RFI
 
 I didn't come up with searches major shoutout to @dustyfresh he gets all the credit for compiling them I just automated the entire thing into this script
+
+##Sample Output
