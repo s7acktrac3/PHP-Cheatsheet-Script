@@ -2,7 +2,7 @@
 Use this bash script to search for code level vulenrabilities in PHP source code leveraging Grep.
 
 Thus far it checks for: 
-*XSS
+Markup : * NFORMATION LEAKAGE
 *INFORMATION LEAKAGE
 *COMMAND EXECUTION
 *CODE EXECUTION
