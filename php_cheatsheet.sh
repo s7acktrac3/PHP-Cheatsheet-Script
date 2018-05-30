@@ -1,4 +1,3 @@
-./php	
 #!/bin/bash
 
 cd /var/www/html/cmsimple-xh
